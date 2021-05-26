@@ -2,7 +2,9 @@
 ## Overview and Origin
 * Name of company: **Square, Inc.**
 * When was the company incorporated?
+    - 2009
 * Who are the founders of the company?
+jdsdn
 * How did the idea for the company (or project) come about?
 * How is the company funded? How much funding have they received?
 
