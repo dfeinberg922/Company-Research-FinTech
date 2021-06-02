@@ -1,5 +1,5 @@
 # FinTech Case Study
-Make changes
+
 ## Overview and Origin
 * Name of company:
     - Square, Inc.
