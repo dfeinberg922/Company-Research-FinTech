@@ -6,3 +6,5 @@ print(x)
 print(y)
 
 print (str(x) +" "+ y)
+
+print(f'{x} {y}')
