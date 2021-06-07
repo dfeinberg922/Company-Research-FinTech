@@ -15,7 +15,7 @@
     
 ## Business Activities:
 * What specific financial problem is the company or project trying to solve?
-    - The company was initially created in order to make it easier for businesses to accept credit cards. The founders of       square identified the following problem: certain businesses were unable to accept credit card payments due to lack       of proper technological resources. 
+    - The company was initially created in order to make it easier for businesses to accept credit cards. The founders of square identified the following problem: certain businesses were unable to accept credit card payments due to lack of proper technological resources. 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
     - The company’s intended customer are small and medium-sized businesses. As reported by Business Insider in February     of 2020, Square’s user base totaled 24 million active users. 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
@@ -41,13 +41,13 @@
     
 ## Recommendations
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-    - I would suggest Square offer customers an option to stake their assets as a way to generate yield. This would             provide Square and Square’s customers an opportunity to generate a yield on the assets which otherwise would just         sit there. Square could utilize a decentralized network, such as THORChain, for staking crypto assets. 
+    - While Square has gotten involved in the cryptocurrency space, their focus primarily is on gathering resources and organizing teams in order to further develop and improve upon existing technologies. If I were to advise the company, I would suggest Square offer customers an option to stake their assets as a way to generate yield. This would             provide Square and Square’s customers an opportunity to generate a yield on the assets which otherwise would just sit there. Square could utilize a decentralized network, such as THORChain, for staking crypto assets. 
 * Why do you think that offering this product or service would benefit the company?
     - I think this service would benefit the company in two major ways: 1) more prospective customers would find Square’s       services attractive, especially given the fact that commercial banks are offering very little interest; and, 2)           this would provide Square with an opportunity to generate more income.
 * What technologies would this additional product or service utilize?
     - As mentioned above, this service would involve utilizing a decentralized liquidity network such as THORChain. 
 * Why are these technologies appropriate for your solution?
-    - These technologies are appropriate for the solution because Square prides itself as a company which offers               financial services not offered by traditional financial companies. This service would be provided through the use         of a decentralized network, which further enables customers to have easier access to capital. 
+    - These technologies are appropriate for the solution because Square prides itself as a company which offers               financial services not offered by traditional financial companies. This service would be provided through the use of a decentralized network, which further enables customers to have easier access to capital. 
 
 ### Research Material
 * https://www.statista.com/topics/3242/square/#dossierSummary__chapter3
