@@ -2,7 +2,7 @@
 
 ## Overview and Origin
 * Name of company:
-    - Square, Inc...
+    - Square, Inc.
 * When was the company incorporated?
     - 2009
 * Who are the founders of the company?
