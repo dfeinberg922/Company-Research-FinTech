@@ -47,7 +47,7 @@
 * What technologies would this additional product or service utilize?
     - As mentioned above, this service would involve utilizing a decentralized liquidity network such as THORChain. 
 * Why are these technologies appropriate for your solution?
-    - These technologies are appropriate for the solution because Square prides itself as a company which offers               financial services not offered by traditional financial companies. This service would be provided through the use of a decentralized network, which further enables customers to have easier access to capital. 
+    - These technologies are appropriate for the solution because Square prides itself as a company which offers financial services not offered by traditional financial companies. This service would be provided through the use of a decentralized network, which further enables customers to have easier access to capital. Square was formed in order to provide resources to small-mid sized businesses so that they could operate without being subject to a systemic disadvantage compared to larger businesses. While a large business may be able to easily obtain a loan, a smaller business may not be able to so easily; therefore, the generation of additional capital is important, and utilizing a technology such as ThorChain would provide oppportunity for smaller companies to generate additional income by way of staking various assets. 
 
 ### Research Material
 * https://www.statista.com/topics/3242/square/#dossierSummary__chapter3
