@@ -9,7 +9,7 @@
     - Jack Dorsey and Jim McKelvey
 * How did the idea for the company (or project) come about?
     - Jim McKelvey was unable to finalize a transaction for the sale of an item but was unable to do so since he couldn’t 
-      accept credit cards. Hence, the idea of square came about in order to help facilitate transactions. 
+      accept credit cards. Hence, the idea of square came about in order to help facilitate transactions. Jim McKelvey and Jack Dorsey partnered up in order to provide a financial technology service which would allow for small-mid sized businesses to more easily accept various payment methods (i.e. credit card payments). 
 * How is the company funded? How much funding have they received?
     - Square has received funding from a variety of sources. Initially, Square received investments from angel investors.       Square has also received funding through Khosla Ventures, Sequoia Capital, Kleiner Perkins, Citi Ventures, Rizvi         Traverse, Starbucks, and Goldman Sachs. The company went public, getting listed on the NYSE, in 2015. 
     
